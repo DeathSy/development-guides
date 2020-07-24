@@ -13,8 +13,18 @@
 - [VScode](https://code.visualstudio.com/)
 
 #### needed packages
+- [nvm]()
+```
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash # then copy export path to .zshrc
+```
+- [NodeJS]()
+```
+$ nvm install node
+```
 
-- [NodeJS](https://nodejs.org/en/)
+#### configurations
+
+- [Windows-Linux configuration](https://dev.to/seanwelshbrown/setting-up-windows-subsystem-for-linux-wsl-2-as-a-bootcamp-grad-1e7)
 
 ## Macos development environment
 
