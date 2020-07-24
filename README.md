@@ -13,6 +13,12 @@
 - [VScode](https://code.visualstudio.com/)
 
 #### needed packages
+
+- [oh-my-zsh]()
+```
+$ sudo apt install zsh
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 - [nvm]()
 ```
 $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash # then copy export path to .zshrc
@@ -30,7 +36,10 @@ $ nvm install node
 
 #### prerequisite
 
-- [Xcode command utilities](https://docs.brew.sh/Common-Issues#brew-complains-about-absence-of-command-line-tools)
+- [Xcode command utilities](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)
+```
+$ xcode-select --install
+```
 
 #### needed apps
 
@@ -39,7 +48,11 @@ $ nvm install node
 
 #### needed packages
 
-- NodeJS
+- [oh-my-zsh]()
+```
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+- [NodeJS]()
 
 ```
 $ brew install node
