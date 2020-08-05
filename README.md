@@ -1,6 +1,6 @@
-# Developer Guides 2020
+# Development Guides 2020
 
-## Windows development environment
+### Windows development environment
 
 #### prerequisite
 
