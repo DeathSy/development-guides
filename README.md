@@ -11,6 +11,7 @@
 - [wsl 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 - [VScode](https://code.visualstudio.com/)
+- [MariaDB](https://mariadb.org/)
 
 #### needed packages
 
@@ -38,7 +39,7 @@ $ sudo apt mysql_secure_installation
 
 - [Windows-Linux configuration](https://dev.to/seanwelshbrown/setting-up-windows-subsystem-for-linux-wsl-2-as-a-bootcamp-grad-1e7)
 
-## macOS development environment
+### macOS development environment
 
 #### prerequisite
 
@@ -51,6 +52,7 @@ $ xcode-select --install
 
 - [Homebrew](https://brew.sh/)
 - [VScode](https://code.visualstudio.com/)
+- [MariaDB](https://mariadb.org/)
 
 #### needed packages
 
