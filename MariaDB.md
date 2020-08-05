@@ -77,7 +77,7 @@ $ brew services restart mariadb
 
 ##### Windows
 ```
-$ sudo systemctl start mariadb
-$ sudo systemctl stop mariadb
-$ sudo systemctl restart mariadb
+$ sudo service mysql start
+$ sudo service mysql stop
+$ sudo service mysql restart
 ```
