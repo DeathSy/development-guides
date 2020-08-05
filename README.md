@@ -28,11 +28,17 @@ $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bas
 $ nvm install node
 ```
 
+- [MariaDB](https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04)
+```
+$ sudo apt install mariadb-server
+$ sudo apt mysql_secure_installation
+```
+
 #### configurations
 
 - [Windows-Linux configuration](https://dev.to/seanwelshbrown/setting-up-windows-subsystem-for-linux-wsl-2-as-a-bootcamp-grad-1e7)
 
-## Macos development environment
+## macOS development environment
 
 #### prerequisite
 
@@ -56,4 +62,10 @@ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 
 ```
 $ brew install node
+```
+
+- [MariaDB]()
+
+```
+$ brew install mariadb
 ```
