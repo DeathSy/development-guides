@@ -51,6 +51,7 @@ $ xcode-select --install
 #### needed apps
 
 - [Homebrew](https://brew.sh/)
+- [NodeJS](https://nodejs.org)
 - [VScode](https://code.visualstudio.com/)
 - [MariaDB](https://mariadb.org/)
 
@@ -60,10 +61,14 @@ $ xcode-select --install
 ```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+- [NVM]()
+```
+$ brew install nvm
+```
 - [NodeJS]()
 
 ```
-$ brew install node
+$ nvm install node
 ```
 
 - [MariaDB]()
